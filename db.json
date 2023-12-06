@@ -1,0 +1,25 @@
+{
+  "equipments": [
+    {
+      "name": "camera",
+      "amount": 3,
+      "condition": "new",
+      "photoUrl": "https://rukminim2.flixcart.com/image/850/1000/kokdci80/dslr-camera/v/e/x/z-24-200mm-z5-nikon-original-imag2zuekuxgxsgg.jpeg?q=20",
+      "id": 2
+    },
+    {
+      "name": "printer",
+      "amount": 3,
+      "condition": "new",
+      "photoUrl": "https://www.rdveikals.lv/images/midi/35a714751b1c0002c396a177200fee27.jpg",
+      "id": 3
+    },
+    {
+      "name": "mouse",
+      "amount": -3,
+      "condition": "used",
+      "photoUrl": "https://m.media-amazon.com/images/I/61CNGisjWUL._AC_UF1000,1000_QL80_.jpg",
+      "id": 4
+    }
+  ]
+}
